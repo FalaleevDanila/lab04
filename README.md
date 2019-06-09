@@ -1,6 +1,6 @@
 ## Laboratory work II
 
-[![Build Status](https://travis-ci.org/FalaleevDanila/lab05.svg?branch=master)](https://travis-ci.org/FalaleevDanila/lab05)
+[![Build Status](https://travis-ci.org/FalaleevDanila/lab04.svg?branch=master)](https://travis-ci.org/FalaleevDanila/lab04)
 
 Данная лабораторная работа посвещена изучению систем контроля версий на примере **Git**.
 
